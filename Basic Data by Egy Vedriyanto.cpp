@@ -1,4 +1,5 @@
 #include <iostream>
+//untuk menggunakan cout dan cin
 using namespace std;
 
 /* NAMA   : EGY VEDRIYANTO
