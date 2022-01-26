@@ -1,4 +1,4 @@
 # Basic-Data
 Program yang berisi basic data 
-123456
+12345
 
